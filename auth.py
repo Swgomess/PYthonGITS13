@@ -3,15 +3,8 @@
 import sys
 
 def autenticar(email, senha):
-    """
-    Função para autenticar um usuário com email/telefone e senha.
-    
-    :param email: Email ou número de telefone do usuário.
-    :param senha: Senha do usuário.
-    :return: Mensagem de status de autenticação.
-    """
     # Dados de login válidos
-    email_valido = "sergiowesley@gmail.com"
+    email_valido = "sergiowesley@hotmail.com"
     telefone_valido = "99123-4567"
     senha_valida = "sergio123"
     
