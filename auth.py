@@ -4,7 +4,7 @@ import sys
 
 def autenticar(email, senha):
     # Dados de login válidos
-    email_valido = "sergiowesley@hotmail.com"
+    email_valido = "sergiowesley@gmail.com"
     telefone_valido = "99123-4567"
     senha_valida = "sergio123"
     
